@@ -1,6 +1,5 @@
 
 #
-# Cocktails documentation build configuration file, created by
 # sphinx-quickstart on Wed Oct 12 18:07:15 2011.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -28,7 +27,7 @@ import sys, os
 extensions = ['sphinx.ext.doctest', 'sphinx.ext.ifconfig']
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['/home/y/share/htdocs/cocktails/sphinx_rst_ydn/ydn_template/']
+templates_path = ['nothing']
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -40,8 +39,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-# project = u'Cocktails'
-copyright = u'2011, Yahoo! Inc., 2011'
+# project = u''
+copyright = u'2011, Joe Catera'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -92,7 +91,7 @@ highlight_language = 'javascript'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'ydntheme'
+html_theme = 'haiku'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -100,11 +99,11 @@ html_theme = 'ydntheme'
 #html_theme_options = {}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ['/home/y/share/htdocs/cocktails/sphinx_rst_ydn/ydn_template/']
+html_theme_path = ['none']
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Mojito Intro'
+html_title = ''
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -116,7 +115,7 @@ html_title = 'Mojito Intro'
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-# html_favicon = 'images/Mojito.ico'
+# html_favicon = 'images/none'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -167,7 +166,7 @@ html_show_sourcelink = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'MojitoIntro'
+htmlhelp_basename = 'Intro'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -181,7 +180,7 @@ htmlhelp_basename = 'MojitoIntro'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'Cocktails.tex', u'Cocktails Documentation',
+  ('index',  u'Documentation',
    u'Joe Catera', 'manual'),
 ]
 
@@ -214,7 +213,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'Mojito', u'Mojito Intro',
+    ('index', 'None', u'Test',
      [u'Joe Catera'], 1)
 ]
 
