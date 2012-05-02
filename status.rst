@@ -1,1 +1,1 @@
-We're up to "Unmodifying a Modified File" on page 28 in the Progit book.
+We're up to "Lightweight Tag" on page 34 in the Progit book.
