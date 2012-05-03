@@ -1,1 +1,2 @@
 We're up to "Branch" on page 42 in the Progit book.
+Experimenting with branching.
