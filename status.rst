@@ -1,1 +1,1 @@
-We're up to "Lightweight Tag" on page 34 in the Progit book.
+We're up to "Branch" on page 42 in the Progit book.
