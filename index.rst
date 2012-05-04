@@ -3,6 +3,8 @@ Introducing M
 =============
 M is fun, and I want fun.
 
+M is fun, but N is more fun.
+
 Subtitle
 ========
 
