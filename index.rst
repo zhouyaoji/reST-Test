@@ -1,7 +1,7 @@
 =============
 Introducing M
 =============
-M is fun
+M is fun, and I want fun.
 
 Subtitle
 ========
