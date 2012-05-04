@@ -2,7 +2,7 @@
 Introducing M
 =============
 
-M is fun
+M is fun, but N is more fun.
 
 Subtitle
 ========
