@@ -28,4 +28,7 @@ Table of Contents
     2. I am done with block.
   
 
+.. code:: javascript
 
+   var state = "Alaska";
+   console.log(state);
