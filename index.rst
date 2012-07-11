@@ -28,4 +28,29 @@ Table of Contents
     2. I am done with block.
   
 
+Code
 
+.. code-block:: javascript
+
+   [
+     {
+       "settings": [ "master" ],
+       "specs": {
+         "frame" : {
+           "type" : "HTMLFrameMojit",
+           "config": {
+             "child" : {
+               "type" : "framed"
+             },
+             "assets": {
+               "top": {
+                 "css": [
+                   "/static/framed/assets/index.css"
+                 ]
+               }
+             }
+           }
+         }
+       }
+     }
+   ]
