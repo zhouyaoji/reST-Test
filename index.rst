@@ -67,14 +67,3 @@ Code
 
 
 
-.. _moj_langs:
-.. topic::  **What languages can I use to develop mojits?**
-
-    JavaScript is the programming language of Cocktails. All modules are written in JavaScript, 
-    and JavaScript only. Modules that require server-side execution do so through a server-side 
->>>>>>> e05ea472177a647e7af3d1fb7b2eecbc8fc1ee26
-
-
-.. raw::
-
-   <b>Joe is funny</b>
