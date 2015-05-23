@@ -32,7 +32,6 @@ Table of Contents
     2. I am done with block.
   
 
-<<<<<<< HEAD
 Code
 
 .. code-block:: javascript
@@ -59,7 +58,8 @@ Code
        }
      }
    ]
-=======
+
+
 .. code-block:: javascript
 
    var state = "Alaska";
