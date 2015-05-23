@@ -13,7 +13,9 @@
 import sys, os
 
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-
+import ydn
+html_theme = 'ydn'
+html_theme_path = [ydn.get_html_theme_path()]
 if not on_rtd:  # only import and set the theme if we're building docs locally
     import ydn
     html_theme = 'ydn'
@@ -47,7 +49,7 @@ master_doc = 'index'
 # General information about the project.
 # project = u''
 copyright = u'2011, Joe Catera'
-
+html_theme = 'ydn'
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
