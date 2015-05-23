@@ -15,7 +15,7 @@ Table of Contents
    :maxdepth: 2
 
    abstract
-   intro
+   introduction
  
 
 :ref:`What languages can I use to develop mojits? <moj_langs>`  
