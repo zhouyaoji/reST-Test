@@ -12,14 +12,6 @@
 
 import sys, os
 
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-import ydn
-html_theme = 'ydn'
-html_theme_path = [ydn.get_html_theme_path()]
-if not on_rtd:  # only import and set the theme if we're building docs locally
-    import ydn
-    html_theme = 'ydn'
-    html_theme_path = [ydn.get_html_theme_path()]
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
