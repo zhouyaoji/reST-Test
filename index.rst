@@ -17,8 +17,9 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-
    introduction
+   getting_started
+   reference
  
 
 :ref:`What languages can I use to develop mojits? <moj_langs>`  
