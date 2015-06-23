@@ -1,6 +1,9 @@
 =============
 Introducing M
 =============
+
+.. include:: abstract.rst
+
 M is fun, and I want fun.
 
 M is fun, but N is more fun.
@@ -14,7 +17,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 2
 
-   abstract
+
    introduction
  
 
